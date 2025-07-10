@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Item_Code_Error_Message">ItemCode chỉ chứa số và ký tự. Không được chứa khoảng cách</string>
+    <string name="Item_Name_Error_Message">ItemName phải có nhiều hơn 1 ký tự</string>
+</resources>

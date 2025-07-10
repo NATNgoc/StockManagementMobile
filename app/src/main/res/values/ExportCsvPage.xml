@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Dialog_Tittle_Construct">Xuất file csv</string>
+    <string name="Dialog_Message_Export">Xuất tại đường dẫn:</string>
+    <string name="Dialog_Message">Hãy chọn đường dẫn bạn cần xuất file csv</string>
+</resources>
